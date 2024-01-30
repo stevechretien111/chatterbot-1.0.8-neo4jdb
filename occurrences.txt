@@ -1,0 +1,27 @@
+IndexedTextSearch occurrences:
+	Line 1: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/occurrences.txt
+	Line 4: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/search.py
+	Line 19: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/scanner.py
+	Line 4: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/chatterbot.py
+	Line 30: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/chatterbot.py
+	Line 3: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/logic/logic_adapter.py
+	Line 40: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/logic/logic_adapter.py
+	Line 3: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/logic/__pycache__/logic_adapter.cpython-37.pyc
+	Line 4: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/__pycache__/chatterbot.cpython-37.pyc
+	Line 3: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/__pycache__/search.cpython-37.pyc
+	Line 11: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/__pycache__/search.cpython-37.pyc
+	Line 38: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/__pycache__/search.cpython-37.pyc
+TextSearch occurrences:
+	Line 1: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/occurrences.txt
+	Line 9: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/occurrences.txt
+	Line 4: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/search.py
+	Line 19: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/scanner.py
+	Line 4: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/chatterbot.py
+	Line 30: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/chatterbot.py
+	Line 3: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/logic/logic_adapter.py
+	Line 40: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/logic/logic_adapter.py
+	Line 3: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/logic/__pycache__/logic_adapter.cpython-37.pyc
+	Line 4: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/__pycache__/chatterbot.cpython-37.pyc
+	Line 3: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/__pycache__/search.cpython-37.pyc
+	Line 11: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/__pycache__/search.cpython-37.pyc
+	Line 38: /home/steve/miniforge3/envs/chatterbot1.0.8/lib/python3.7/site-packages/chatterbot/__pycache__/search.cpython-37.pyc
